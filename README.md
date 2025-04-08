@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I'm studying computer programming languages.
+## I'm studying computer programming languages at Yeaungnam University.
 <!--
 **seojuwan-creator/seojuwan-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
